@@ -10,6 +10,7 @@ cd python_arduino
 conda env create -f environment.yml
 conda activate pyserial
 jupyter notebook
+
 ```
 
 2. Open `signal_graph.ipynb` 
